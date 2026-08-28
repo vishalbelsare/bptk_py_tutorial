@@ -75,6 +75,7 @@ You can best reach us per e-mail at [support@transentis.com](mailto:support@tran
 - [SD DSL Functions](./sd-dsl/sd_dsl_functions/sd_dsl_functions.ipynb)
 - [Creating User-defined Functions in SD Models](./sd-dsl/sd_user_defined_functions/sd_user_defined_functions.ipynb)
 - [SD DSL: Under The Hood](./sd-dsl/sd_dsl_unter_the_hood/sd_dsl_under_the_hood.ipynb)
+- [Multidimensional SD DSL](./sd-dsl/sd_dsl_multidimensional/sd_dsl_multidimensional.ipynb)
 - [The Mathematics Underlying the SD DSL](./sd-dsl/sd_dsl_mathematics/sd_dsl_mathematics.ipynb)
 - [Working With XMILE](./xmile/xmile.ipynb)
 

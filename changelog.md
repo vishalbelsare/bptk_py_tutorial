@@ -2,6 +2,12 @@
 
 ## BPTK Change Log
 
+### 2.0.1
+
+* added unittests
+* fixed typos for server output
+* enabled operations: not named vector and int/float
+
 ### 2.0.0
 
 * Support for multidimensional sddsl
@@ -81,6 +87,11 @@
 * Bug Fix: Remove debug print message
 
 ## BPTK Tutorial and Documentation Change Log
+
+### 2025-05-27
+
+* Updated to BPTK 2.1.0
+* Several minor updates 
 
 ### 2025-03-27
 

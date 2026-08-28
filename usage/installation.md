@@ -34,7 +34,7 @@ following steps:
 First of all, you need [Python](https://www.python.org/). Download the
 latest version for your operating system.
 
-BPTK-Py was tested with Python 3.10, but should also run fine with Python 3.9
+BPTK-Py was tested with Python 3.11, 3.12 and 3.13.
 
 ### Clone the BPTK-Py tutorial
 
@@ -123,8 +123,8 @@ If you observe malfunctions in the framework and believe the reason may
 be incompatibilities with newer versions of the packages, please inform
 us.
 
-We have tested the framework with Python 3.9 and above. BPTK Server
-requires a version of Python \>= 3.9, other parts of the framework
+We have tested the framework with Python 3.11 and above. BPTK Server
+requires a version of Python \>= 3.11, other parts of the framework
 should work fine with older versions of Python.
 
   Package name   What we use it for
